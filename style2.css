@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.shark{
+    background-color: #424e61;
+    display: flex;
+}
+.lista-shark{
+    color: white;
+    font-size: 30px;
+}
