@@ -4,7 +4,7 @@
 }
 
 .shark{
-    background-color: #424e61;
+    background-color:gray;
     display: flex;
     justify-content: space-around;
 }
@@ -17,5 +17,18 @@
     font: bolder;
 }
 .primeiro-shark{
-    background-color: darkgoldenrod;
+    background-color: rgb(56, 55, 51);
+    padding: 15px;
+}
+.primeiro-shark{
+    background-image: linear-gradient(gray, white);
+    height: 500px;
+    padding: 100px;
+    color: white;
+}
+.primeiro-p{
+    padding: 15px;
+}
+.segundo-p{
+     padding: 15px;
 }
