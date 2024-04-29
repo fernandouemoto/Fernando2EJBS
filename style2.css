@@ -4,7 +4,7 @@
 }
 
 .shark{
-    background-color:gray;
+    background-color:rgb(146, 14, 14);
     display: flex;
     justify-content: space-around;
 }
@@ -21,7 +21,7 @@
     padding: 15px;
 }
 .primeiro-shark{
-    background-image: linear-gradient(gray, white);
+    background-image: linear-gradient(rgb(146, 14, 14), rgb(0, 0, 0));
     height: 500px;
     padding: 100px;
     color: white;
@@ -31,4 +31,14 @@
 }
 .segundo-p{
      padding: 15px;
+}
+
+.foto-estudo{
+
+}
+
+.titulo-estudante{
+    display: flex;
+    align-items: center;
+justify-content: space-around;
 }
