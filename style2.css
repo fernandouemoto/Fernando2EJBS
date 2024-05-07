@@ -27,18 +27,23 @@
     color: white;
 }
 .primeiro-p{
-    padding: 15px;
+    align-items:baseline;
+    padding: 10px;
 }
 .segundo-p{
-     padding: 15px;
+     padding: 10px;
 }
 
 .foto-estudo{
-
+   width: 20px;
 }
 
 .titulo-estudante{
     display: flex;
     align-items: center;
 justify-content: space-around;
+}
+
+.foto-de-estudante{
+    width: 50px;
 }
